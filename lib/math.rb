@@ -19,5 +19,5 @@ total = (num1 % num2)
 end
 
 def square_root(num)
-total = (math.sqrt(num))
+total = math.sqrt(num)
 end
